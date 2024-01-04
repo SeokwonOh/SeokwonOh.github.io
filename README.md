@@ -1,4 +1,4 @@
-Hi. This is Seokwon Oh. I'm a software engineer
+Hi. This is Seokwon Oh. I'm a software engineer. This is a profile which is planned to be updated with more details.
 
 # Education
 
