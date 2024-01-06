@@ -12,7 +12,8 @@ Hi. This is Seokwon Oh. I'm a software engineer. Currently, I'm pursuing master'
 
 # Research/Project Experience
 
-- Artificial Neural Network Model, July 2022 - December 2022
+- AI Projects, March 2018 - February 2024
+- Cloud/Server Management and Development, March 2018 - February 2024
 - SDN Orchestration, March 2017 - November 2017
 - Mobile Application, June 2016 - September 2016
 
