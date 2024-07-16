@@ -2,8 +2,8 @@ Hi. This is Seokwon Oh. I'm a software engineer. Currently, I'm pursuing master'
 
 # Education
 
-- B.S in Computer Science and Engineering, Hanyang University, 2012 - 2018
 - M.S in Computer Science and Engineering, Seoul National University, 2024 - Present
+- B.S in Computer Science and Engineering, Hanyang University, 2012 - 2018
 
 # Work Experience
 
